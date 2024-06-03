@@ -24,6 +24,8 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 * Learn about the App Lifecycle and how to use viewWillAppear or viewWillDisappear.
 * How to create direct Segues for navigation.
 
+## Excepted View 👀
+https://github.com/balkisous/IOS_App-FlashChat/assets/76943138/9531ab4c-a6ec-4c7f-8466-fca4e786ec14
 
 
 >I made this project with App Brewery's Complete App Development Bootcamp.
