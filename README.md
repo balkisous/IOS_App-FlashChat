@@ -24,6 +24,14 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 * Learn about the App Lifecycle and how to use viewWillAppear or viewWillDisappear.
 * How to create direct Segues for navigation.
 
+## Installation
+
+```
+git clone https://github.com/balkisous/IOS_App-ToDoey.git && cd IOS_App-ToDoey
+pod install
+open YourProjectName.xcworkspace
+```
+
 ## Excepted View 👀
 https://github.com/balkisous/IOS_App-FlashChat/assets/76943138/9531ab4c-a6ec-4c7f-8466-fca4e786ec14
 
