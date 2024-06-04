@@ -31,12 +31,6 @@ git clone https://github.com/balkisous/IOS_App-ToDoey.git && cd IOS_App-ToDoey
 pod install
 open YourProjectName.xcworkspace
 ```
-## Help 🛟
-I got this problem 
-```
-File not found: /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphoneos.a
-```
-here a link to solve it -> https://medium.com/@alpayguroglu/missing-file-libarclite-iphoneos-a-xcode-14-3-issue-solution-629609ddefdf
 
 ## Excepted View 👀
 https://github.com/balkisous/IOS_App-FlashChat/assets/76943138/9531ab4c-a6ec-4c7f-8466-fca4e786ec14
